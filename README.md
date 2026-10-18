@@ -40,11 +40,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivannnaff&theme=radical" alt="GitHub Streak" />
 </p>
-
----
-
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=Ivannnaff&cover_art=true&theme=default" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/spotify?uid=Ivannnaff&theme=default&show_offline=true&interchange=true" alt="Spotify Playing" />
-  </a>
-</p>
