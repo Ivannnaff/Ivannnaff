@@ -1,7 +1,8 @@
+<h1 align="center">Hello! I'm Ivan</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=120&section=header&text=Hello!%20I'm%20Ivan&fontSize=40&fontColor=F75C7E&animation=none" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&height=40&lines=IT+Enthusiast;Web+Developer;Building+things+for+the+web" alt="Typing SVG" />
 </p>
-<h3 align="center">Building things for the web :)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ivannnaff&style=flat-square&color=blue" alt="Profile views" />
