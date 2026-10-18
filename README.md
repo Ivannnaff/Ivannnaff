@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=400&size=42&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&height=80&lines=Hello!+I'm+Ivan" alt="Hello I'm Ivan" />
-</p>
+<h1 align="center">Hello! I'm Ivan</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&height=40&lines=IT+Enthusiast;Web+Developer;Building+things+for+the+web" alt="Typing SVG" />
