@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=0&pause=999999999&color=F75C7E&center=true&vCenter=true&width=500&height=70&lines=Hello!+I'm+Ivan" alt="Hello I'm Ivan" />
-</p>
+<h1 align="center">Hello! I'm Ivan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=0&pause=999999999&color=A78BFA&center=true&vCenter=true&width=500&height=40&lines=IT+Enthusiast;Web+Developer;Building+things+for+the+web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&height=40&lines=IT+Enthusiast;Web+Developer;Building+things+for+the+web" alt="Typing SVG" />
 </p>
 
 <p align="center">
