@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=999999999&pause=999999999&color=F75C7E&center=true&vCenter=true&width=500&height=70&lines=Hello!+I'm+Ivan" alt="Hello I'm Ivan" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=0&pause=999999999&color=F75C7E&center=true&vCenter=true&width=500&height=70&lines=Hello!+I'm+Ivan" alt="Hello I'm Ivan" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&duration=999999999&pause=999999999&color=A78BFA&center=true&vCenter=true&width=500&height=40&lines=Building+things+for+the+web+:%29" alt="Building things for the web" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&duration=0&pause=999999999&color=A78BFA&center=true&vCenter=true&width=500&height=40&lines=Building+things+for+the+web+:%29" alt="Building things for the web" />
 </p>
 
 <p align="center">
