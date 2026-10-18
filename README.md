@@ -1,5 +1,5 @@
-<h1 align="center">Hello! I'm Ivan</h1>
-<h3 align="center">Building things for the web :)</h3>
+<h1 align="center"><span style="color: #F75C7E;">Hello! I'm Ivan</span></h1>
+<h3 align="center"><span style="color: #A78BFA;">Building things for the web :)</span></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ivannnaff&style=flat-square&color=blue" alt="Profile views" />
